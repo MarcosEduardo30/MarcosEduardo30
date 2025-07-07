@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello there, I'm Marcos 👋
+I'm a C# ASP.NET Fullstack software developer, always looking foward to learn new things!
 
-<!--
-**MarcosEduardo30/MarcosEduardo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+const Marcos = {
+  code: ["C#", "ASP.NET", "Angular", "Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["Visual Studio", "Git", "AWS"],
+  architectures: ["Clean-Architecture"],
+  database: ["MySQL", "SqlServer", "SqlLite"],
+  misc: ["REST"],
+  currentFocus: "Learning AWS 😁"
+}
+```
+<hr>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p  align="center">
+ <i><b>GitHub Stats</b></i>
+</p>
+ 
+ <p align="center" >
+ 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEduardo30&layout=compact&theme=dark"/>
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoseduardo30&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
+
+<hr>
